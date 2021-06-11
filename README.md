@@ -12,7 +12,7 @@ Programos veikimo pabaigoje yra sukuriami 3 failai, kuriuose yra visa informacij
 
 ## Programos diegimas ir paleidimas
 
-- Atsisiųskite programos versiją iš (https://github.com/PovilasRandis/Paskutine/releases/tag/v1.0) aplanko ir ją išsiarchyvuokite,
+- Atsisiųskite programos versiją iš [Releases](https://github.com/PovilasRandis/Paskutine/releases/tag/v1.0) aplanko ir ją išsiarchyvuokite,
 - Komandinėje eilutėje įvykdykite sekančius veiksmus:
 
 cd nuoroda_į_programos_aplanką
